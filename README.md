@@ -1,22 +1,27 @@
 <!-- Welcome Banner -->
 <p align="center">
-  <img src="IuNL.gif" alt="Welcome Banner" width="100%" />
+<img src="IuNL.gif" alt="Welcome Banner" style="width: 1500px; height: 300px; object-fit: cover;" />
 </p>
 
 
 
-<!-- Profile Picture Placeholder -->
-<p align="center">
-  <img src="<!-- Your Profile Picture URL here -->" alt="Nanda Kumar G" width="200" style="border-radius: 50%;" />
-</p>
+<table>
+  <tr>
+    <td style="width: 220px; text-align: center;">
+      <img src="profile.jpg" alt="Nanda Kumar G" width="200" style="border-radius: 50%;" />
+    </td>
+    <td>
+      <h1>Hi 👋, I'm Nanda Kumar G</h1>
+      <h3>A passionate Full Stack Developer from India</h3>
+    </td>
+  </tr>
+</table>
 
-<h1 align="center">Hi 👋, I'm Nanda Kumar G</h1>
-<h3 align="center">A passionate Full Stack Developer from India</h3>
-
-<!-- Tech GIF -->
+<!-- Tech GIF Centered -->
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Tech Working GIF" width="400" />
 </p>
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=nandukumarg&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
