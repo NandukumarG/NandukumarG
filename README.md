@@ -1,6 +1,6 @@
 <!-- Welcome Banner -->
 <p align="center">
-  <img src="assets/IuNL.gif" alt="Welcome Banner" width="100%" />
+  <img src="IuNL.gif" alt="Welcome Banner" width="100%" />
 </p>
 
 
