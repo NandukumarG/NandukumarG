@@ -5,22 +5,24 @@
 
 
 
-<table>
+<table style="border: 0px; border-collapse: collapse;">
   <tr>
-    <td style="width: 220px; text-align: center;">
-      <img src="profile.jpg" alt="Nanda Kumar G" width="200" style="border-radius: 50%;" />
-    </td>
-    <td>
       <h1>Hi 👋, I'm Nanda Kumar G</h1>
       <h3>A passionate Full Stack Developer from India</h3>
     </td>
   </tr>
+  <tr>
+    <td>
+     <p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Tech Working GIF" width="500" />
+</p>
+    </td>
+  </tr>
 </table>
 
+
 <!-- Tech GIF Centered -->
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Tech Working GIF" width="400" />
-</p>
+
 
 
 <p align="center">
