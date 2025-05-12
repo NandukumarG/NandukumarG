@@ -4,25 +4,12 @@
 </p>
 
 
+<h1 align="center">Hi 👋, I'm Nanda Kumar G</h1>
+<h3 align="center">A passionate Full Stack Developer from India</h3>
 
-<table style="border: 0px; border-collapse: collapse;">
-  <tr>
-      <h1>Hi 👋, I'm Nanda Kumar G</h1>
-      <h3>A passionate Full Stack Developer from India</h3>
-    </td>
-  </tr>
-  <tr>
-    <td>
-     <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Tech Working GIF" width="500" />
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Tech Working GIF" width="600" />
 </p>
-    </td>
-  </tr>
-</table>
-
-
-<!-- Tech GIF Centered -->
-
 
 
 <p align="center">
@@ -62,7 +49,7 @@
 
 ### 🛠️ Languages and Tools
 
-<p align="center">
+<p align="center" style="background-color: #f8f8f8; padding: 20px; border-radius: 12px; >
   <a href="https://www.arduino.cc/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino" width="40" height="40"/></a>
   <a href="https://getbootstrap.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40"/></a>
   <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/></a>
